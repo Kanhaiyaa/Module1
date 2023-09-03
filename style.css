@@ -1,0 +1,41 @@
+.body{
+    margin: 0px ;
+    padding: 0px;
+}
+
+#accio{
+    margin-left: 100px;
+}
+
+#launch{
+    margin-left: 100px;
+}
+
+#launch2{
+    margin-left: 100px;
+}
+#learn{
+    margin-left: 550px;
+}
+#our{
+    margin-left: 600px;
+    color:rgb(0, 179, 255);
+}
+
+#title{
+    margin-left: 400px;
+}
+
+#placement{
+    margin-left: 550px;
+    background-color: #2f80ed;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    color: white;
+}
+
+
+#Acciojob{
+    margin-left: 400px;
+}
